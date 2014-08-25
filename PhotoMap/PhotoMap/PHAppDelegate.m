@@ -6,9 +6,9 @@
 //  Copyright (c) 2014 Itechart. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "PHAppDelegate.h"
 
-@implementation AppDelegate
+@implementation PHAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
